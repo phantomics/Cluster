@@ -1,3 +1,9 @@
+# Emacs backup files
+*~
+
+# Other Emacs files
+.emacs*
+
 *.aux
 *.bbl
 *.blg
